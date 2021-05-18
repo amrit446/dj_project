@@ -1,0 +1,4 @@
+This is Ami Ice Cream website Hello is Main project, home is is app so tha you can see the ice creams
+
+
+for run the project go open app write command python manage.py runserver
